@@ -1,8 +1,8 @@
 {
- "version": "v02.12",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.12/klaxa-setup-02.12.exe",
- "sha256": "7b1c9484213723c139ce897ff5b92ea7f5b582362cc2c04b497cf350a675f31d",
- "notes": "Getting started guide for students",
+ "version": "v02.13",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.13/klaxa-setup-02.13.exe",
+ "sha256": "f9a22827cef09182e4e599bfcd9c3a84f189391099538c8d28df4f8b696f5334",
+ "notes": "Share cards: Today, Discipline, Week and Month",
  "date": "2026-10-21",
  "revoked": []
 }
