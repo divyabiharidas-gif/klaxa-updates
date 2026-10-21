@@ -1,8 +1,8 @@
 {
- "version": "v02.09",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.09/klaxa-setup-02.09.exe",
- "sha256": "0cb5b1364541035203175b6761ef6a813d397027821ccc4701d02ab3b9f9ce19",
- "notes": "First Beta",
+ "version": "v02.09.1",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.09.1/klaxa-setup-02.09.1.exe",
+ "sha256": "d5a751aeb4d7242b516dc5d7e51ea6e7ed49776af7f3615e26820db0c286a326",
+ "notes": "Update Test",
  "date": "2026-10-21",
  "revoked": []
 }
