@@ -1,8 +1,8 @@
 {
- "version": "v02.11",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.11/klaxa-setup-02.11.exe",
- "sha256": "ea2a48e2eaf0ba2dfded4cf8dce9d1cb8c97883592410e2d07462d14531da21e",
- "notes": "Daily opening with a line from Divya Biharini Das",
+ "version": "v02.12",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.12/klaxa-setup-02.12.exe",
+ "sha256": "7b1c9484213723c139ce897ff5b92ea7f5b582362cc2c04b497cf350a675f31d",
+ "notes": "Getting started guide for students",
  "date": "2026-10-21",
  "revoked": []
 }
