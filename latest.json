@@ -1,8 +1,8 @@
 {
- "version": "v02.13",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.13/klaxa-setup-02.13.exe",
- "sha256": "f9a22827cef09182e4e599bfcd9c3a84f189391099538c8d28df4f8b696f5334",
- "notes": "Share cards: Today, Discipline, Week and Month",
- "date": "2026-10-21",
+ "version": "v02.13.1",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.13.1/klaxa-setup-02.13.1.exe",
+ "sha256": "fde2177f10b9a322c3e2c04f276c9083b637ef7dcce1f192442e7e8a987ad1a8",
+ "notes": "Share cards + cleaner activation screen",
+ "date": "2026-10-22",
  "revoked": []
 }
