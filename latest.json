@@ -1,8 +1,8 @@
 {
- "version": "v02.14.1",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.14.1/klaxa-setup-02.14.1.exe",
- "sha256": "becfce28f432a90405167bc19c366757ec7b250ec1b298e3a1a945ac680326a9",
- "notes": "What's new card after every update",
+ "version": "v02.14.2",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.14.2/klaxa-setup-02.14.2.exe",
+ "sha256": "06586824853f5b9bddc547cbaeb4e89f164c4073ea088c384e46f551181f42d5",
+ "notes": "Analysis: best and worst no longer show the same item",
  "date": "2026-10-22",
  "revoked": []
 }
