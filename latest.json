@@ -1,8 +1,8 @@
 {
- "version": "v02.15",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.15/klaxa-setup-02.15.exe",
- "sha256": "cf83b298a67c4ce1be171ea706d78e6902f06e8780f390c6ca325cd0ef311c76",
- "notes": "klaxa score: three rings (Edge, Risk, Mind)",
+ "version": "v02.15.1",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.15.1/klaxa-setup-02.15.1.exe",
+ "sha256": "4780e6c25866c256435b4d5be0588a976de8032983884eecd08e7bc27eb15875",
+ "notes": "Weekend login banner + rule-break colours fixed",
  "date": "2026-10-24",
  "revoked": []
 }
