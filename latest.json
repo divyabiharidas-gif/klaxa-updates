@@ -1,8 +1,8 @@
 {
- "version": "v02.15.1",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.15.1/klaxa-setup-02.15.1.exe",
- "sha256": "4780e6c25866c256435b4d5be0588a976de8032983884eecd08e7bc27eb15875",
- "notes": "Weekend login banner + rule-break colours fixed",
+ "version": "v02.15.2",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.15.2/klaxa-setup-02.15.2.exe",
+ "sha256": "0d8f6d91a97b8123a3d3bb36d6569f459e857903c0c4a15a8091d841bd8ecdbc",
+ "notes": "Rule-break cost counted per trade",
  "date": "2026-10-24",
  "revoked": []
 }
