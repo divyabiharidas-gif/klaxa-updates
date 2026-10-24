@@ -1,8 +1,8 @@
 {
- "version": "v02.16",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.16/klaxa-setup-02.16.exe",
- "sha256": "18c7627320c011e548c415cc31c79b0f7b5633bd179a9bab78cd15925b4c7a64",
- "notes": "Charges matched to the Fyers charges list",
- "date": "2026-10-24",
+ "version": "v02.17.1",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.17.1/klaxa-setup-02.17.1.exe",
+ "sha256": "a8279ba8ca2ba5e183d0cd2c60815174bb6a1d01800290d96e9670619a210491",
+ "notes": "Glowing update button",
+ "date": "2026-10-25",
  "revoked": []
 }
