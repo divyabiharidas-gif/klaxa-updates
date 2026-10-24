@@ -1,8 +1,8 @@
 {
- "version": "v02.14.2",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.14.2/klaxa-setup-02.14.2.exe",
- "sha256": "06586824853f5b9bddc547cbaeb4e89f164c4073ea088c384e46f551181f42d5",
- "notes": "Analysis: best and worst no longer show the same item",
- "date": "2026-10-22",
+ "version": "v02.15",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.15/klaxa-setup-02.15.exe",
+ "sha256": "cf83b298a67c4ce1be171ea706d78e6902f06e8780f390c6ca325cd0ef311c76",
+ "notes": "klaxa score: three rings (Edge, Risk, Mind)",
+ "date": "2026-10-24",
  "revoked": []
 }
