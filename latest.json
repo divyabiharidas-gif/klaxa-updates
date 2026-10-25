@@ -1,8 +1,8 @@
 {
- "version": "v02.18.1",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.18.1/klaxa-setup-02.18.1.exe",
- "sha256": "16e29718b68c7d2bc39a11a99d4a908c7d529f8d95b779f1b1f70a36962c9602",
- "notes": "Weekly bars show every week's number",
+ "version": "v02.19",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.19/klaxa-setup-02.19.exe",
+ "sha256": "e826f5974cfd90c3c2de51cefb04c0c0360b51772e9759e8d41c10b080732300",
+ "notes": "Yearly review: full-width calendar, 12 months, year records, year goal",
  "date": "2026-10-25",
  "revoked": []
 }
