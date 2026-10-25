@@ -1,8 +1,8 @@
 {
- "version": "v02.18",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.18/klaxa-setup-02.18.exe",
- "sha256": "800de587c07af3cd45500c4cb946db8082a2d70a5ae99da38f215e3bb11286c9",
- "notes": "klaxa. Coach: weekly promise, new Weekly review and Coach tab",
+ "version": "v02.18.1",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.18.1/klaxa-setup-02.18.1.exe",
+ "sha256": "16e29718b68c7d2bc39a11a99d4a908c7d529f8d95b779f1b1f70a36962c9602",
+ "notes": "Weekly bars show every week's number",
  "date": "2026-10-25",
  "revoked": []
 }
