@@ -1,8 +1,8 @@
 {
- "version": "v02.20.1",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.20.1/klaxa-setup-02.20.1.exe",
- "sha256": "ca048099af10a92c451213d20c52492b1efbacdaf0c3a9360b4516c786f8c9be",
- "notes": "Coach speaks by name, NEW badge stays 60 days",
+ "version": "v02.21",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.21/klaxa-setup-02.21.exe",
+ "sha256": "461b29358a31b3d8326a0bf7f4235c0048f8d9b14d5d3c220a1834006bd6cc97",
+ "notes": "Profile and daily loss limit guard",
  "date": "2026-10-26",
  "revoked": []
 }
