@@ -1,8 +1,8 @@
 {
- "version": "v02.22",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.22/klaxa-setup-02.22.exe",
- "sha256": "da70fb3c5570a5629105447c907ac84c1ac06b4f25140d2a175182aedd41771d",
- "notes": "Built in red No setup tag",
+ "version": "v02.23.2",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.23.2/klaxa-setup-02.23.2.exe",
+ "sha256": "8b87b1c844eeb96bb3ef54ed5f99905321dcebc2cad4e7ff4d6e30a47a6c3f26",
+ "notes": "Limit window stays until you choose",
  "date": "2026-10-27",
  "revoked": []
 }
