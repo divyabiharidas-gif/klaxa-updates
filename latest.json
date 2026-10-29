@@ -1,8 +1,8 @@
 {
- "version": "v02.23.2",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.23.2/klaxa-setup-02.23.2.exe",
- "sha256": "8b87b1c844eeb96bb3ef54ed5f99905321dcebc2cad4e7ff4d6e30a47a6c3f26",
- "notes": "Limit window stays until you choose",
- "date": "2026-10-27",
+ "version": "v02.27.3",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.27.3/klaxa-setup-02.27.3.exe",
+ "sha256": "95a91b36fac83d00764d0799a8f9105f2eca8557f98028abea8d585628ad6926",
+ "notes": "Points column aligned, info buttons for points",
+ "date": "2026-10-29",
  "revoked": []
 }
