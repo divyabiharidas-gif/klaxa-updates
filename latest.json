@@ -1,8 +1,8 @@
 {
- "version": "v02.27.4",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.27.4/klaxa-setup-02.27.4.exe",
- "sha256": "8977f468083534ee4e284bc0bc5638e260b3f520bfecf33df8ff414a51d29f10",
- "notes": "Points hover text follows plus or minus",
- "date": "2026-10-29",
+ "version": "v02.28",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v02.28/klaxa-setup-02.28.exe",
+ "sha256": "4d298d9c8876c234ec3a53662f13bb778851fd63d8be0411aeb99b47e943dc9c",
+ "notes": "Confluence: main setup plus agreeing setups",
+ "date": "2026-10-30",
  "revoked": []
 }
