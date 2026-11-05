@@ -1,8 +1,8 @@
 {
- "version": "v03.02",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.02/klaxa-setup-03.02.exe",
- "sha256": "df4a91a76794df84a53f1cc302149525ab224d34afabc6df1cf9dbada8e3affc",
- "notes": "klaxa. 3.02: late session sync, holidays, backups and restore, missed setups on any index",
+ "version": "v03.03",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.03/klaxa-setup-03.03.exe",
+ "sha256": "0be1ec66d0fa26bd3bb5c6d1a52a1e487ed4c23bcf2506a361f5509b506a0ff7",
+ "notes": "Watch how to connect Fyers: step by step guide with the new Fyers screens",
  "date": "2026-11-05",
  "revoked": []
 }
