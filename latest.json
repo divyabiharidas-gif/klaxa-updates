@@ -1,8 +1,8 @@
 {
- "version": "v03.01",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.01/klaxa-setup-03.01.exe",
- "sha256": "7909aae995620341607a9c1c9b0476959f99beb5f53ae42e58d6ca3e778e5888",
- "notes": "klaxa. V3: Week plan, Missed setups, Strategy deep dive, Netra AI and a guided tour",
+ "version": "v03.01.1",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.01.1/klaxa-setup-03.01.1.exe",
+ "sha256": "bae7f8b61eae1124d89e6c6193eeafe88d976f0a01d41c3050e899d01908d48c",
+ "notes": "Tour shows once, Coach badge one week, safer local server",
  "date": "2026-11-05",
  "revoked": []
 }
