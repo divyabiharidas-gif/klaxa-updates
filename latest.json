@@ -1,8 +1,8 @@
 {
- "version": "v03.01.1",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.01.1/klaxa-setup-03.01.1.exe",
- "sha256": "bae7f8b61eae1124d89e6c6193eeafe88d976f0a01d41c3050e899d01908d48c",
- "notes": "Tour shows once, Coach badge one week, safer local server",
+ "version": "v03.01.2",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.01.2/klaxa-setup-03.01.2.exe",
+ "sha256": "50c7304eb07dad8413611dee6477406d6df03ce29521090665ab1c9c43aa5c35",
+ "notes": "Tour and Coach card remembered after closing, safer local server",
  "date": "2026-11-05",
  "revoked": []
 }
