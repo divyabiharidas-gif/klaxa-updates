@@ -1,8 +1,8 @@
 {
- "version": "v03.03",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.03/klaxa-setup-03.03.exe",
- "sha256": "0be1ec66d0fa26bd3bb5c6d1a52a1e487ed4c23bcf2506a361f5509b506a0ff7",
- "notes": "Watch how to connect Fyers: step by step guide with the new Fyers screens",
- "date": "2026-11-05",
+ "version": "v03.03.1",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.03.1/klaxa-setup-03.03.1.exe",
+ "sha256": "dbcbc3b6afa3e9ea92e16caf73fbb14be9cb956f622f34fc119a1c0ae58e73c9",
+ "notes": "Notebook: note box empties after saving",
+ "date": "2026-11-06",
  "revoked": []
 }
