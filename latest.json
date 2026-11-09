@@ -1,8 +1,8 @@
 {
- "version": "v03.03.1",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.03.1/klaxa-setup-03.03.1.exe",
- "sha256": "dbcbc3b6afa3e9ea92e16caf73fbb14be9cb956f622f34fc119a1c0ae58e73c9",
- "notes": "Notebook: note box empties after saving",
- "date": "2026-11-06",
+ "version": "v03.04",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.04/klaxa-setup-03.04.exe",
+ "sha256": "90c546515832d14e2e9df8ad29fd8aaf6c8251c23d9ef9ab7b8ee757086c976b",
+ "notes": "Bias check: was your bias right, did you trade with it, did you catch the move",
+ "date": "2026-11-10",
  "revoked": []
 }
