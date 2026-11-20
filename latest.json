@@ -1,8 +1,8 @@
 {
- "version": "v03.04",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.04/klaxa-setup-03.04.exe",
- "sha256": "90c546515832d14e2e9df8ad29fd8aaf6c8251c23d9ef9ab7b8ee757086c976b",
- "notes": "Bias check: was your bias right, did you trade with it, did you catch the move",
- "date": "2026-11-10",
+ "version": "v03.05",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.05/klaxa-setup-03.05.exe",
+ "sha256": "3b0f428ce508d6aa9e039540deeabb07953b5ed2f875a0a468ff633e91ef2354",
+ "notes": "After exit, Exits and stops, Trades in this setup with Review all",
+ "date": "2026-11-20",
  "revoked": []
 }
