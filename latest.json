@@ -1,8 +1,8 @@
 {
- "version": "v03.05",
- "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.05/klaxa-setup-03.05.exe",
- "sha256": "3b0f428ce508d6aa9e039540deeabb07953b5ed2f875a0a468ff633e91ef2354",
- "notes": "After exit, Exits and stops, Trades in this setup with Review all",
+ "version": "v03.05.1",
+ "url": "https://github.com/divyabiharidas-gif/klaxa-updates/releases/download/v03.05.1/klaxa-setup-03.05.1.exe",
+ "sha256": "94e9bfe9aaa1592bc4fd859137bf64d8c54ae0976923ea0800ff05a1c2450880",
+ "notes": "After exit box moved above notes, with a Coach line for each trade",
  "date": "2026-11-20",
  "revoked": []
 }
